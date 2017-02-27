@@ -1,1 +1,1 @@
-# html_content_comparator
+# html content comparator
